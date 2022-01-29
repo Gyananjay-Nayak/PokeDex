@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gyananjay-Nayak/PokeDex.git/static/css/main.ea29a954.css",
+    "main.js": "/Gyananjay-Nayak/PokeDex.git/static/js/main.f209cb41.js",
+    "index.html": "/Gyananjay-Nayak/PokeDex.git/index.html",
+    "main.ea29a954.css.map": "/Gyananjay-Nayak/PokeDex.git/static/css/main.ea29a954.css.map",
+    "main.f209cb41.js.map": "/Gyananjay-Nayak/PokeDex.git/static/js/main.f209cb41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea29a954.css",
+    "static/js/main.f209cb41.js"
+  ]
+}
