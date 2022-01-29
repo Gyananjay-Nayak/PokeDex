@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Gyananjay-Nayak/PokeDex.git/static/css/main.ea29a954.css",
-    "main.js": "/Gyananjay-Nayak/PokeDex.git/static/js/main.f209cb41.js",
+    "main.css": "/Gyananjay-Nayak/PokeDex.git/static/css/main.49e65be3.css",
+    "main.js": "/Gyananjay-Nayak/PokeDex.git/static/js/main.ded68472.js",
     "index.html": "/Gyananjay-Nayak/PokeDex.git/index.html",
-    "main.ea29a954.css.map": "/Gyananjay-Nayak/PokeDex.git/static/css/main.ea29a954.css.map",
-    "main.f209cb41.js.map": "/Gyananjay-Nayak/PokeDex.git/static/js/main.f209cb41.js.map"
+    "main.49e65be3.css.map": "/Gyananjay-Nayak/PokeDex.git/static/css/main.49e65be3.css.map",
+    "main.ded68472.js.map": "/Gyananjay-Nayak/PokeDex.git/static/js/main.ded68472.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea29a954.css",
-    "static/js/main.f209cb41.js"
+    "static/css/main.49e65be3.css",
+    "static/js/main.ded68472.js"
   ]
 }
